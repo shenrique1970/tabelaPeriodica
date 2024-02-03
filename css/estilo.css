@@ -1,0 +1,104 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fff;
+}
+
+.cinza,
+th {
+    background-color: #cfd8dc;
+}
+
+p,
+h6,
+h5 {
+    margin: auto;
+    padding: 5px;
+}
+
+.nome {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.sim,
+b {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#c {
+    width: 98%;
+    margin: 5px;
+    padding: 5px;
+}
+
+#legendas,
+tr,
+h2 {
+    background-color: #fff;
+}
+
+.quadrado {
+    width: 20px;
+    height: 20px;
+}
+
+tr,
+td {
+    width: 5%;
+    /*border: solid 1px;*/
+}
+
+#a,
+#b {
+    margin-left: 20%;
+    padding: 10px;
+    width: 80%;
+    width: 5%;
+}
+
+.nmet {
+    background-color: #a5d6a7;
+}
+
+.metalc1 {
+    background-color: #ffc107;
+}
+
+.metalc2 {
+    background-color: #fff59d;
+}
+
+.metrans {
+    background-color: #e57373;
+}
+
+.lanta {
+    background-color: #81d4fa;
+}
+
+.act {
+    background-color: #ffab91;
+}
+
+.gasno {
+    background-color: #039be5;
+}
+
+.halo {
+    background-color: #b3e5fc;
+}
+
+.semimet {
+    background-color: #80cbc4;
+}
+
+.semi {
+    background-color: #009688;
+}

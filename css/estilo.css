@@ -8,6 +8,12 @@ body {
     background-color: #fff;
 }
 
+/* site fora desses numeros quebra*/
+html { 
+    min-width: 320px; 
+    max-width: 1400px; 
+}
+
 .cinza,
 th {
     background-color: #cfd8dc;

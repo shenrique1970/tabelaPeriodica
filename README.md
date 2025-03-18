@@ -10,7 +10,7 @@ Basta dar um git clone.
 Pensando em como montar tabelas usando html e css.
 
 ## Contribuição.
-Identificando algum erro pode sugerir mudanças, sempre seram bem vindas.
+Identificando algum erro pode sugerir mudanças, sempre serão bem vindas.
 
 ## License
 Open.
